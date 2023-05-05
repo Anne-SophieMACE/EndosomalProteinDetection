@@ -1,0 +1,28 @@
+"NDInfoFile", Version 1.0
+"Description", 2021/08/25
+Gelatin A488 degradation
+mTOR Cy3
+CD63 Cy5
+
+
+12 siRNA combinations 
+"StartTime1", 20210826 09:53:11
+"DoTimelapse", FALSE
+"NTimePoints", 1
+"DoStage", FALSE
+"DoWave", TRUE
+"NWavelengths", 4
+"WaveName1", "DAPI"
+"WaveDoZ1", TRUE
+"WaveName2", "GFP"
+"WaveDoZ2", TRUE
+"WaveName3", "Cy3"
+"WaveDoZ3", TRUE
+"WaveName4", "Cy5"
+"WaveDoZ4", TRUE
+"DoZSeries", TRUE
+"NZSteps", 8
+"ZStepSize", 0
+"WaveInFileName", TRUE
+"NEvents", 0
+"EndFile"
